@@ -1,0 +1,64 @@
+
+a {
+  color: #795d5d;
+}
+
+.hero {
+  background-size: auto 100px;
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                0px 8px 13px rgba(0,0,0,0.1),
+                0px 18px 23px rgba(0,0,0,0.1);
+
+}
+
+
+body {
+  background-size: auto;
+  background: #000428;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #004e92, #3f4152);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #004e92, #3f4152); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-family: 'Encode Sans Semi Condensed', serif;
+  color: #897c7b;
+}
+
+h1 {
+  font-family: 'Zilla Slab', serif;
+  font-style: italic;
+  margin: 30px;
+  color: #795d5d;
+}
+
+h2 {
+  text-align: center;
+}
+
+.border-bottom {
+  border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.services {
+  padding: 20px
+}
+
+.navbar-toggler {
+  border-color: #897c7b;
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='#897c7b' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  color: #897c7b;
+}
+
+li {
+  list-style-type: none;
+}
+
+.languages {
+  padding: 10px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.body-border {
+  padding-top: 8%;
+}
