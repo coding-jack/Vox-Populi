@@ -37,7 +37,8 @@ h2 {
 }
 
 .services {
-  padding: 20px
+  padding: 20px;
+text-align: center;
 }
 
 .navbar-toggler {
