@@ -32,6 +32,10 @@ h2 {
   text-align: center;
 }
 
+.head {
+  font-family: 'Contrain One', serif;
+}
+
 .border-bottom {
   border-bottom: 1px solid rgba(0,0,0,0.2);
 }
